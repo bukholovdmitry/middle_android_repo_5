@@ -1,0 +1,5 @@
+<resources>
+    <string name="periodic_refresh_minutes">Data update period (minutes)</string>
+    <string name="delay_first_launch_sec">First update delay (seconds)</string>
+    <string name="save_setting">Save settings</string>
+</resources>
